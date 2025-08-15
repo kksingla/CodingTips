@@ -4,7 +4,6 @@ A collection of handy terminal shortcuts for faster development, including:
 
 - **PHP Version Switchers** (PHP 7.4, 8.2, 8.3)
 - **Git Command Shortcuts**
-- **One-Shot Deploy Command (`gdeploy`)**
 
 Works on **macOS** (Homebrew required).
 
