@@ -34,7 +34,7 @@ Common Git commands made shorter.
 | `gca`    | `git commit --amend` |
 | `gp`     | `git push` |
 | `gpf`    | `git push --force` |
-| `gpl`    | `git pull` |
+| `gpl`    | `git pull --no-rebase` |
 | `gco branch` | `git checkout branch` |
 | `gcb branch` | `git checkout -b branch` |
 | `gb`     | `git branch` |
