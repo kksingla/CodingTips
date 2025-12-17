@@ -40,7 +40,8 @@ Common Git commands made shorter.
 | `gb`     | `git branch` |
 | `gbd branch` | `git branch -d branch` |
 | `gl`     | `git log --oneline --graph --decorate` |
-| `gundo`  | `git reset --soft HEAD~1` |
+| `gundo count`  | `git reset --soft HEAD~1` |
+| `gpb branch`  | `git pull origin branch --no-rebase` |
 
 
 ---
