@@ -17,7 +17,8 @@ alias gcb="git checkout -b"
 alias gb="git branch"
 alias gbd="git branch -d"
 alias gl="git log --oneline --graph --decorate"
-alias gundo="git reset --soft HEAD~1"
+alias gundo='git reset --soft HEAD~"$1"' 
+alias gpb='git pull origin "$1" --no-rebase'
 
 EOF
 
